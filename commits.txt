@@ -1,0 +1,11 @@
+commit 756d231e533a9b937c1b7d04066472b050ca6d68
+Author: artesvisuales <elizagarate@gmail.com>
+Date:   Mon Jun 22 11:58:26 2015 +0200
+
+    Estructura básica del sitio
+
+commit acc23cf0b44977771daa26b2ef4df2489b25186f
+Author: artesvisuales <elizagarate@gmail.com>
+Date:   Fri Jun 19 11:51:16 2015 +0200
+
+    Inicio de commit
