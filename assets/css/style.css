@@ -29,12 +29,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	margin-bottom: 15px;
 	margin-top: 0;
 }
-h1 {font-size: 38px;}
-h2 {font-size: 32px;}
+h1 {font-size: 30px;}
+h2 {font-size: 28px;}
 h3 {font-size: 24px;}
 h4 {font-size: 20px;}
 h5 {font-size: 18px;}
-h6 {font-size: 16px;}
+h6 {font-size: 14px;}
 
 p.lead {
 	font-size: 24px;
@@ -326,6 +326,21 @@ label {
 	-webkit-box-shadow: none;
 	-moz-box-shadow: none;
 }
+form input {
+	position: absolute;
+	right: 30%;
+}
+.mc-field-group {
+	margin-bottom: 10px;
+}
+#mc-embedded-subscribe.btn.btn-primary.btn-lg {
+	padding: 5px auto !important;
+}
+.small {
+	font-size: 0.8em;
+	display: inline-block;
+	margin-bottom: 5px;
+}
 
 /*	Header
 	==================================================*/
@@ -343,7 +358,7 @@ label {
   width: 100%;
   top: 0;
   position: fixed;
-  background: url('http://placehold.it/1600x1600') center center no-repeat; 
+  background: url('http://artesvisuales.com/wp-content/uploads/2014/03/home-ucam.jpg') center center no-repeat; 
   background-size: cover;
   z-index: -100;
 }
