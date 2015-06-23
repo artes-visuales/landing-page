@@ -1,3 +1,21 @@
+commit 5664a6ee301a44acbc15160c2556a3a9b52ff876
+Author: artesvisuales <webmaster@artesvisuales.com>
+Date:   Tue Jun 23 13:56:48 2015 +0200
+
+    Start Features
+
+commit a62852577aca2bf82b22f8cc0885a8bccaa21b27
+Author: artesvisuales <webmaster@artesvisuales.com>
+Date:   Tue Jun 23 11:51:07 2015 +0200
+
+    Start Hero Section
+
+commit 9e8f47650d9add52ec5144bebf50bd82259e2cb6
+Author: Felipe Elizagarate <elizagarate@server.local>
+Date:   Tue Jun 23 10:08:07 2015 +0200
+
+    Actualizar commits.txt
+
 commit aa7075c1572e3d935f4365f9d81afce811845aaf
 Author: Felipe Elizagarate <elizagarate@server.local>
 Date:   Tue Jun 23 08:01:53 2015 +0200
