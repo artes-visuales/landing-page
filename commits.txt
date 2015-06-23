@@ -1,3 +1,21 @@
+commit aa7075c1572e3d935f4365f9d81afce811845aaf
+Author: Felipe Elizagarate <elizagarate@server.local>
+Date:   Tue Jun 23 08:01:53 2015 +0200
+
+    Añado la web en bruto
+
+commit 90112b312c0607a33f4f4e6cbf960cc31e585b47
+Author: Felipe Elizagarate <elizagarate@server.local>
+Date:   Tue Jun 23 07:56:40 2015 +0200
+
+    Añado index.html
+
+commit fb3a1c27f299832da042e0027e496af256af2ed5
+Author: Felipe Elizagarate <elizagarate@server.local>
+Date:   Tue Jun 23 07:54:25 2015 +0200
+
+    Modificación commits.txt
+
 commit 87e0d70273e24b5dd7e69a35f0eaa0294640ee39
 Author: Felipe Elizagarate <elizagarate@server.local>
 Date:   Tue Jun 23 07:51:59 2015 +0200
