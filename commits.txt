@@ -1,11 +1,17 @@
-commit 756d231e533a9b937c1b7d04066472b050ca6d68
-Author: artesvisuales <elizagarate@gmail.com>
-Date:   Mon Jun 22 11:58:26 2015 +0200
+commit 87e0d70273e24b5dd7e69a35f0eaa0294640ee39
+Author: Felipe Elizagarate <elizagarate@server.local>
+Date:   Tue Jun 23 07:51:59 2015 +0200
 
-    Estructura básica del sitio
+    Excluir en gitignore los proyectos de sublimetext
 
-commit acc23cf0b44977771daa26b2ef4df2489b25186f
-Author: artesvisuales <elizagarate@gmail.com>
-Date:   Fri Jun 19 11:51:16 2015 +0200
+commit e6fc70b11046a461cd41613c0fcc944062d3f4e5
+Author: artes-visuales <elizagarate@gmail.com>
+Date:   Mon Jun 22 11:57:57 2015 +0200
 
-    Inicio de commit
+    Create README.md
+
+commit d992f81385f7d1295cdcd8f257cddfdec1e7cb88
+Author: artes-visuales <elizagarate@gmail.com>
+Date:   Mon Jun 22 11:51:14 2015 +0200
+
+    Initial commit
