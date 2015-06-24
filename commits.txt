@@ -1,3 +1,15 @@
+commit 0da5343678467a186ee1d30c9cef0a5692f4fc3d
+Author: artesvisuales <webmaster@artesvisuales.com>
+Date:   Wed Jun 24 13:06:10 2015 +0200
+
+    Image Block
+
+commit 0061800a3242f5a3bc602d13d533a0e3116db04d
+Author: artesvisuales <webmaster@artesvisuales.com>
+Date:   Tue Jun 23 13:57:45 2015 +0200
+
+    commits.txt
+
 commit 5664a6ee301a44acbc15160c2556a3a9b52ff876
 Author: artesvisuales <webmaster@artesvisuales.com>
 Date:   Tue Jun 23 13:56:48 2015 +0200
