@@ -1,3 +1,15 @@
+commit bbad80d5a541374e66fc4c41e3643b373edc0581
+Author: artesvisuales <webmaster@artesvisuales.com>
+Date:   Wed Jun 24 13:48:57 2015 +0200
+
+    Gallery Block
+
+commit fa2656652b066b227c7b3f135a9ec3f9356efc87
+Author: artesvisuales <webmaster@artesvisuales.com>
+Date:   Wed Jun 24 13:06:57 2015 +0200
+
+    Actulizo log commit
+
 commit 0da5343678467a186ee1d30c9cef0a5692f4fc3d
 Author: artesvisuales <webmaster@artesvisuales.com>
 Date:   Wed Jun 24 13:06:10 2015 +0200
