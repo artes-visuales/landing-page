@@ -1,3 +1,46 @@
+commit 8532936c8dc3cfaeeb58b6905facb8332975d2a1
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jun 26 11:41:32 2015 +0200
+
+    Etiquetas Tracking
+
+commit d021e7c9a8865b559cc50d081f5288a32af85036
+Author: Air <Air@server.local>
+Date:   Thu Jun 25 19:29:40 2015 +0200
+
+    Paypal
+
+commit 70189253888edc01171ac179f7cf9c57cf16ba58
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jun 25 13:57:06 2015 +0200
+
+    Precio y Paypal
+
+commit cb19eabcf7bee3cc377981cd7906aaa167165e5c
+Merge: 8337157 f14c6d6
+Author: artesvisuales <webmaster@artesvisuales.com>
+Date:   Thu Jun 25 11:29:05 2015 +0200
+
+    Merge branch 'gh-pages' of https://github.com/artes-visuales/landing-page
+
+commit 8337157dedf65011ab494561fbf6fda1c1efceb8
+Author: artesvisuales <webmaster@artesvisuales.com>
+Date:   Thu Jun 25 10:43:50 2015 +0200
+
+    Códigos de tracking
+
+commit f14c6d6fdb4e152a6c7c7703a4e75e837af9330c
+Author: Felipe Elizagarate <artes-visuales@users.noreply.github.com>
+Date:   Thu Jun 25 10:08:47 2015 +0200
+
+    CNAME
+
+commit bcdf87a62ac3d8e1f379f13c9dab93f7b15bb965
+Author: Air <Air@server.local>
+Date:   Wed Jun 24 20:18:12 2015 +0200
+
+    Actualizo commits.txt
+
 commit 7da42d0c7a72b796a861ae30b42b010d5d3a35b5
 Author: Air <Air@server.local>
 Date:   Wed Jun 24 20:16:16 2015 +0200
