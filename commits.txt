@@ -1,3 +1,21 @@
+commit a7930f8907a1d39ba0678088b71eaa7b8be30a7c
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jun 30 18:33:52 2015 +0200
+
+    Automatic deploy
+
+commit 490cf45b95a6b1d5f0910731f31218f5d37812cd
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jun 30 18:28:39 2015 +0200
+
+    Automatic deploy
+
+commit 40c41fbb796efa4411dc2457f455153fddb9e4a0
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jun 26 12:11:09 2015 +0200
+
+    Actualizo commits.txt
+
 commit 8532936c8dc3cfaeeb58b6905facb8332975d2a1
 Author: artes-visuales <elizagarate@artesvisuales.com>
 Date:   Fri Jun 26 11:41:32 2015 +0200
