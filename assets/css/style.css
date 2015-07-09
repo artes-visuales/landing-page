@@ -140,8 +140,8 @@ pre {
 	background-color: #3498db;
 }
 .btn-info:hover, .btn-info:focus {
-	background-color: #2980b9;
-	border-color: #2980b9;
+	background-color: #31b0d5;
+	border-color: #269abc;
 }
 .btn-warning, .label-warning, .alert-warning {
 	background-color: #e67e22;
@@ -158,6 +158,11 @@ pre {
 .btn-danger:hover, .btn-danger:focus {
 	background-color: #c0392b; 
 	border-color: #c0392b; 
+}
+span.glyphicon.glyphicon-hand-down {
+	font-size: 80px;
+	color: #E5E5E5;
+	margin-top: -70px;
 }
 /*	Tab & Collapse Skin
 	==================================================*/
@@ -420,7 +425,7 @@ form input {
 	padding: 0;
 }
 #hero .lp-element {
-	padding: 150px 50px;
+	padding: 50px 50px;
 	background-color: rgba(255, 255, 255, .75);
 }
 #hero h1 {
