@@ -374,15 +374,20 @@ form input {
   width: 100%;
   top: 0;
   position: fixed;
-  background: url('http://artesvisuales.com/wp-content/uploads/2014/03/home-ucam.jpg') center center no-repeat; 
   background-size: cover;
   z-index: -100;
+}
+.cav {
+	background: url('../../images/ucam-cav.jpg') center center no-repeat; 
+}
+.mac{
+	background: url('../../images/mac-sala-imac.jpg') center center no-repeat; 
 }
 
 /*	Navbar
 	==================================================*/
 .navbar-inverse .navbar-brand {
-	padding: 30px 15px;
+	padding: 20px 15px;
 	margin-right: 30px;
 	color: inherit;
 }
@@ -613,6 +618,9 @@ footer {
 	.navbar-nav>li>a {
 		margin: 0 7px;
 	}
+	.container {
+		padding-bottom: 1px;
+	}
 }
 @media (max-width: 767px) {
 	.service-block, .img-responsive, .carousel {
@@ -680,9 +688,7 @@ footer {
 		margin-right: 0;
 	}
 	.container {
-		max-width: 690px;
-		padding-left: 30px;
-		padding-right: 30px;
+		padding-bottom: 15px;
 	}
 	#newsletter form {
 		width: 100%;
@@ -695,8 +701,9 @@ footer {
 	.faq-block {
 		margin: 0 40px;
 	}
-	
-
+	#hero .lp-element {
+	margin-top: -1px;
+	}
 }
 @media (max-width: 490px) {
 	.container {
