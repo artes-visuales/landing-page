@@ -381,7 +381,7 @@ form input {
 	background: url('../../images/ucam-cav.jpg') center center no-repeat; 
 }
 .mac{
-	background: url('../../images/ucam-mac-sala-imac.jpg') center center no-repeat; 
+	background: url('../../images/mac-sala-imac.jpg') center center no-repeat; 
 }
 
 /*	Navbar
@@ -618,6 +618,9 @@ footer {
 	.navbar-nav>li>a {
 		margin: 0 7px;
 	}
+	.container {
+		padding-bottom: 1px;
+	}
 }
 @media (max-width: 767px) {
 	.service-block, .img-responsive, .carousel {
@@ -685,9 +688,7 @@ footer {
 		margin-right: 0;
 	}
 	.container {
-		max-width: 690px;
-		padding-left: 30px;
-		padding-right: 30px;
+		padding-bottom: 15px;
 	}
 	#newsletter form {
 		width: 100%;
@@ -700,7 +701,9 @@ footer {
 	.faq-block {
 		margin: 0 40px;
 	}
-
+	#hero .lp-element {
+	margin-top: -1px;
+	}
 }
 @media (max-width: 490px) {
 	.container {
