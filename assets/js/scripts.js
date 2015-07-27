@@ -1,7 +1,7 @@
 function parallax() {
 	var scrollPosition = $(window).scrollTop();
 	$('#parallax').css('top',(0 - (scrollPosition * 0.3))+'px' ); // bg image moves at 30% of scrolling speed
-	$('#hero').css('opacity',((100 - scrollPosition/2) *0.01));
+	// $('#hero').css('opacity',((100 - scrollPosition/2) *0.01)); // el formulario se desvanece 
 }
 $(document).ready(function() {
 
