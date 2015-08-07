@@ -392,7 +392,9 @@ form input {
 .mfv{
 	background: url('../../images/mfv-alumna.jpg') center center no-repeat; 
 }
-
+.eudg{
+	background: url('http://emailing.artesvisuales.com/images/ucam-cc-2015-I.jpg') center center no-repeat; 
+}
 /*	Navbar
 	==================================================*/
 .navbar-inverse .navbar-brand {
