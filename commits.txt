@@ -1,3 +1,166 @@
+commit b61293feb501720c9591b3f28cb3d6a69f22f3d1
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Aug 7 12:27:49 2015 +0200
+
+    eudg.html
+
+commit a60ca5df95be3c3a0869a1547617823d3528a73c
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jul 29 11:42:50 2015 +0200
+
+    mfv.html
+
+commit c25227dd6c1e88aacb563dcdd8932d690fe83a62
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jul 28 18:44:50 2015 +0200
+
+    mfv.html
+
+commit e25f9a2d5b40f049f3bb2f1717ab9129b31f119c
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jul 28 17:52:54 2015 +0200
+
+    mdw.html
+
+commit 246ef840301d342010fcaf35d4cf5f361c63b5d6
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jul 27 18:40:53 2015 +0200
+
+    scripts.js
+
+commit c8b9c2932bcad01408988421535b308bf5ed1bf8
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jul 27 18:19:14 2015 +0200
+
+    a href tel
+
+commit a75f87fa9de8f14fd354e657142d9e5e1b22db8e
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jul 22 10:58:09 2015 +0200
+
+    Setup the Facebook SDK for JavaScript index.html
+
+commit 1c3dc55da6317be6135ce093b90307940ca06369
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jul 17 13:57:24 2015 +0200
+
+    Google Tag Manager
+
+commit fbd1a36aa25d914b764190f58e697fa757723fd1
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Fri Jul 17 13:29:17 2015 +0200
+
+    index.html
+
+commit 92bdc57d997a981678f6436c0d5a831c06438e94
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jul 16 11:31:20 2015 +0200
+
+    commit.txt
+
+commit 7b095c61ea5d2da120b2a664ff74125cf13bee47
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jul 16 11:25:49 2015 +0200
+
+    mdg.html
+
+commit ecdd823afc00161007b76bdb45edeeb66af40733
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jul 16 11:21:44 2015 +0200
+
+    mdg.html
+
+commit ff6022c9a8dcc2f67bc504cd8d355a45a638dae6
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jul 15 19:40:35 2015 +0200
+
+    Images mac.html
+
+commit fa780c7e0600a61ddfbd7fe76ddd3d2f7bbcfc55
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jul 15 19:39:22 2015 +0200
+
+    mac.html para master
+
+commit cea4b40facf95264bf5571cde23db9aab50f4370
+Merge: 2177e02 fc56bdd
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jul 15 19:29:03 2015 +0200
+
+    Merge branch 'master' into gh-pages
+
+commit fc56bdd786fafcbdc9b115816e3937ccfffbb286
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Wed Jul 15 19:29:03 2015 +0200
+
+    mac.html
+
+commit 6b8414006d9a1189bce02cf71b337b47c0ca4054
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jul 14 19:34:47 2015 +0200
+
+    mac.html
+
+commit 2177e023b4e34e71161ca88a35518d58fa49bf2d
+Merge: 8127260 09709b7
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jul 9 10:30:56 2015 +0200
+
+    Merge branch 'master' into gh-pages
+    Actualización formulario
+
+commit 09709b7712f75d91a2c181b2a262e2449e01090e
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jul 9 10:24:13 2015 +0200
+
+    + info
+
+commit 812726083689bcf45a32f273aa05dd20e861e9d0
+Merge: e8c0c1b cf393a7
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jul 6 17:30:40 2015 +0200
+
+    Merge branch 'master' into gh-pages
+    Precios y paypal
+
+commit cf393a7707e9c276fb2acbeb51014d9356edbb03
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jul 6 17:29:58 2015 +0200
+
+    Ajustes precio y Paypal
+
+commit e8c0c1b486c40dc1eb7580cf0fb88bca06b77b7b
+Merge: 9b73cbb 0d19ad4
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jul 6 17:09:09 2015 +0200
+
+    Merge branch 'master' into gh-pages
+    "div data-animate"
+
+commit 0d19ad422f3dc20312d1855f605de09e6d598ca0
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jul 6 17:07:43 2015 +0200
+
+    Códigos de tracking
+
+commit 6feb77cdf6c366d67c8fd1ca1ff78a456ecce2dc
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Mon Jul 6 17:03:54 2015 +0200
+
+    div data-animate
+
+commit 1ff0aebac0c135a3dd8308636a72c11c84c55b2b
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jun 30 19:44:07 2015 +0200
+
+    Actualizo Readme.md
+
+commit 0856f9c1892becb8420fb30f071ef936c7b4f9cc
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Tue Jun 30 19:41:05 2015 +0200
+
+    Automatic deploy commits.txt
+
 commit 9076fb697f251fdd5bbb8d53ec9282e2574f9b03
 Author: artes-visuales <elizagarate@artesvisuales.com>
 Date:   Tue Jun 30 19:40:03 2015 +0200
@@ -39,6 +202,20 @@ Author: artes-visuales <elizagarate@artesvisuales.com>
 Date:   Fri Jun 26 11:41:32 2015 +0200
 
     Etiquetas Tracking
+
+commit 9b73cbb0a26369417b43c2ae72a8b6a64051606b
+Merge: a5b7538 d021e7c
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jun 25 20:06:19 2015 +0200
+
+    Merge branch 'master' into gh-pages
+
+commit a5b7538173205df1e6cbf5069ebfb11cd3fafd51
+Merge: 8337157 f14c6d6
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Jun 25 19:55:23 2015 +0200
+
+    Merge branch 'gh-pages' of https://github.com/artes-visuales/landing-page into gh-pages
 
 commit d021e7c9a8865b559cc50d081f5288a32af85036
 Author: Air <Air@server.local>
