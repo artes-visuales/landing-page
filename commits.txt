@@ -1,3 +1,9 @@
+commit 6989bc9a044798f83fce1f6149e660411384926f
+Author: artes-visuales <elizagarate@artesvisuales.com>
+Date:   Thu Sep 10 11:16:28 2015 +0200
+
+    Requisitos acceso
+
 commit b61293feb501720c9591b3f28cb3d6a69f22f3d1
 Author: artes-visuales <elizagarate@artesvisuales.com>
 Date:   Fri Aug 7 12:27:49 2015 +0200
