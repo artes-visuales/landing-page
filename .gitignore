@@ -2,6 +2,5 @@
 *.sh
 .DS_Store
 .htaccess
-sitemap.xml
 _ucam.sublime-workspace
 _ucam.sublime-project
